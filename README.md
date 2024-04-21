@@ -5,6 +5,8 @@ I got tired of having to do this every time I came back to play SoT. So I wrote 
 
 Requirements: Needs .NET 8 Runtime installed.
 
+Furthermore. This program comes as is, run at your own risk. See the LICENSE for more details.
+
 From the official [Sea of Thieves support page](https://support.seaofthieves.com/articles/360000792028), this program specifically automates the following suggested fix:
 > For Steam - If you are being prevented access to Sea of Thieves due to the Lavenderbeard error when using the Steam version, please try the following actions:
 
